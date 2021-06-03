@@ -27,5 +27,5 @@ In order to complete the task, I went through the following steps:
 
 Below are the links to the code and supplementing materials:
 
-*[The code](/.ipynb_checkpoints/main-checkpoint.ipynb)
+*[The code](PyBank/main.ipynb)
 
