@@ -25,7 +25,9 @@ In order to complete the task, I went through the following steps:
 8. Created the output.txt file with the results.
 
 
-Below are the links to the code and supplementing materials:
+Below are the links to the code and the supplementing materials:
 
-*[The code](PyBank/main.ipynb)
+* [The code](PyBank/main.ipynb)
+* [The original csv file data](PyBank/02-Homework_02-Python_Instructions_PyBank_Resources_budget_data.csv)
+* [The output.txt file](PyBank/output.txt)
 
